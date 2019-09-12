@@ -1,0 +1,2 @@
+# kaldi
+Experimenting with kaldi
